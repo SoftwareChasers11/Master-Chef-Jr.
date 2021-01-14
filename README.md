@@ -1,1 +1,2 @@
-# Master-Chef-Jr.
+# Masterchef_junior
+Recipe for delicious Maggi
